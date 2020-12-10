@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f443c8bab5e05be409281ea55dcfa65b, type: 3}
+  m_Name: Scene2
+  m_EditorClassIdentifier: 
+  sceneName: Room2
+  id: 2
+  image: {fileID: 21300000, guid: 09faf54fa6792be45b09dd791be4c9d3, type: 3}
+  items:
+  - {fileID: 11400000, guid: 64fbb526408e4ec4aa69c71aef94f996, type: 2}
+  - {fileID: 11400000, guid: 28bbf0e2b716bbd4e86e19dbf804b1d5, type: 2}
+  - {fileID: 11400000, guid: 103690f80f7364e4ca1feaac4b1f7750, type: 2}
+  - {fileID: 11400000, guid: fcb889aded4f6ab46a5cf5cfae41ec2c, type: 2}
+  - {fileID: 11400000, guid: ca9445fc98c5ee54b9112cab1c7755a0, type: 2}
+  - {fileID: 11400000, guid: 846b54f1f00787e4c932f006a1a7a2af, type: 2}
+  - {fileID: 11400000, guid: 2b4afce5bd0bf374b8dfea4d77091da0, type: 2}
+  - {fileID: 11400000, guid: a47f690ba8974484baf9300b5f023090, type: 2}
+  - {fileID: 11400000, guid: d190cbe868d0ca641836322f86f4dc22, type: 2}
+  - {fileID: 11400000, guid: 784a263c8dfeac04fa342c8f4bb8d92b, type: 2}
+  - {fileID: 11400000, guid: e175b2fae255fea4385782a2de31f709, type: 2}
+  - {fileID: 11400000, guid: 1bb046f6f2782da42a22cf81e8adfd8e, type: 2}
+  - {fileID: 11400000, guid: b00959791b6b4b8489427ee5e40d28a4, type: 2}
+  - {fileID: 11400000, guid: 27570eabc675fc94189f6bcc9c6d489c, type: 2}
+  - {fileID: 11400000, guid: 0d7c04ccd2facf446821d9a3e27139de, type: 2}
+  - {fileID: 11400000, guid: 563d78bb7e99a314989c25c99a7ff1f1, type: 2}
+  - {fileID: 11400000, guid: cd2978ad831a3d64595dc729761fe6b7, type: 2}
+  - {fileID: 11400000, guid: 19432b412ca05594791d69d3dcd81353, type: 2}
+  - {fileID: 11400000, guid: 08b4c1743c8eb1947b8b687e8c4dbd84, type: 2}
+  - {fileID: 11400000, guid: 0335153e2fbce4b41a3a04b9a0a48b9f, type: 2}
+  selectedItemIds: 
+  scorePerItem: 10
+  timePerItem: 10
+  predefined: 0

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f443c8bab5e05be409281ea55dcfa65b, type: 3}
+  m_Name: Scene3
+  m_EditorClassIdentifier: 
+  sceneName: Room3
+  id: 1
+  image: {fileID: 21300000, guid: 1d204dc0beccdd44493452f6c3e59a5a, type: 3}
+  items:
+  - {fileID: 11400000, guid: 3f5015593aa60614a94fc09e670d7011, type: 2}
+  - {fileID: 11400000, guid: 4dac769346b25584ab4026d941a09f3c, type: 2}
+  - {fileID: 11400000, guid: 6cb6af0cb7ce8c54bbafd79dab8022f6, type: 2}
+  - {fileID: 11400000, guid: 9ea14fefc5f4a1e42a7b77c0a744c0c8, type: 2}
+  - {fileID: 11400000, guid: d08c011dc2dc4ff4fa6e0ff774af349d, type: 2}
+  - {fileID: 11400000, guid: ccb3a50057ce65747ae981c242cbdb5f, type: 2}
+  - {fileID: 11400000, guid: d9e92b5ebc1010649b8bdb40566d541d, type: 2}
+  - {fileID: 11400000, guid: 7ca8bffbafa6c574b8a93919af3ceca9, type: 2}
+  - {fileID: 11400000, guid: eaf95357f430bc3418932c2be5945422, type: 2}
+  - {fileID: 11400000, guid: dc8f3b57817d58348b3cda6e1be81db6, type: 2}
+  - {fileID: 11400000, guid: 5e6f6f72e9bb3f84e833cac30f4e87fe, type: 2}
+  - {fileID: 11400000, guid: 4dcf66f9ff983b84bbe027d825c70d0f, type: 2}
+  - {fileID: 11400000, guid: 8ab8bdc2ad2bafb44aa8785f3f0fec51, type: 2}
+  - {fileID: 11400000, guid: 8e410620236a02242a7474e4c645424f, type: 2}
+  - {fileID: 11400000, guid: e0c6f23931a1e7b4f9ddf2596409d7cb, type: 2}
+  - {fileID: 11400000, guid: f4e8fe043c210b34bb115f5e45ed11c3, type: 2}
+  - {fileID: 11400000, guid: 5f734b6007c2eb64db0880420c58a8ff, type: 2}
+  - {fileID: 11400000, guid: 9ac3e5f460b32994aaa710188cd3f7b3, type: 2}
+  - {fileID: 11400000, guid: 489c62f563e164c47b381241c5abe482, type: 2}
+  - {fileID: 11400000, guid: 6482966e27e11a44896ed955137b0dcd, type: 2}
+  selectedItemIds: 490000004a000000
+  scorePerItem: 10
+  timePerItem: 10
+  predefined: 0
